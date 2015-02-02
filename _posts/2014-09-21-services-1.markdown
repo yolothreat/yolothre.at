@@ -1,0 +1,9 @@
+---
+layout: default
+img: docker.png
+category: Services
+title: A New Paradigm for Threat Intelligence
+description: |
+  <p class="lead">What's the paradigm? Docker containers for <b>everything!</b> Seriously everything is gonna be a freakin' Docker container! We put all your threat intel tools into Docker! Or found other people who did and are using theirs! We're still trying to figure out how to put Docker into a Docker container!!</p>
+
+---

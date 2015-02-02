@@ -1,0 +1,26 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://yolothre.at
+title: YOLOThreat
+email: admin@yolothre.at
+description: "YOLOThreat is a brand new threat intelligence startup that just shutdown, so we open sourced everything!"
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/yolothreat
+  - title: github
+    url: https://github.com/yolothreat
