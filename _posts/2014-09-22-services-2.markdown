@@ -1,9 +1,21 @@
 ---
 layout: default
-img: kylemaxwell.jpg
+img: docker-all-the-things.png
 category: Services
-title: CEO - Kyle "The Silver Haired Wombat" Maxwell
+title: YOLOThreat Docker Products
 description: |
-  <p class="lead">A noted leader who still believes this year is finally the year of "Linux on the Desktop" Kyle is an expert in outdated Unixs, writing widely used Python projects without tests, & threat intelligence. He can be found on <a href="https://www.github.com/technoskald">GitHub</a> & Twitter as <a href="https://www.twitter.com/kylemaxwell">@kylemaxwell</a>.</p>
+  <p class="lead">This is actually what all this is about. This collection of great Docker apps provide many of the key capabilities that an upstart threat intelligence team needs to create meaningful capability. These tools should make it easy for a team to get started and begin making impact.<p>
 
+  <ul class="lead">
+  <li><a href="https://registry.hub.docker.com/u/technoskald/maltrieve/">Maltrieve</a>
+  <li><a href="https://registry.hub.docker.com/u/technoskald/combine/">Combine</a>
+  <li><a href="https://registry.hub.docker.com/u/bprodoehl/scumblr/">Scumblr</a>
+  <li><a href="https://registry.hub.docker.com/u/pnelson/crits/">CRITs</a>
+  <li><a href="https://registry.hub.docker.com/u/eg5846/misp-docker/">MISP</a>
+  <li><a href="https://registry.hub.docker.com/u/qnib/elk/">ELK</a>
+  <li><a href="https://registry.hub.docker.com/u/remnux/viper/">Viper</a>
+  <li><a href="https://registry.hub.docker.com/u/remnux/thug/">Thug</a>
+  <li><a href="https://registry.hub.docker.com/u/blacktop/bro/">Bro</a>
+  <li><a href="https://registry.hub.docker.com/u/blacktop/yara/">YARA</a>
+  </ul></p>
 ---

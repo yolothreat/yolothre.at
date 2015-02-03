@@ -1,0 +1,9 @@
+---
+layout: default
+img: scottroberts.jpg
+category: Services
+title: CTO - Scott "I Don't Like Anything" Roberts
+description: |
+  <p class="lead">Scott has decades of experience in pomaceous fruit consumption and chasing worms to combat advanced persistent fruit rot. He prefers to write code in computer languages you've probably never heard of, and once you do it's time for him to move to something less mainstream. He can be found on <a href="https://www.github.com/sroberts">GitHub</a> & Twitter as <a href="https://www.twitter.com/sroberts">@sroberts</a>.</p>
+
+---
