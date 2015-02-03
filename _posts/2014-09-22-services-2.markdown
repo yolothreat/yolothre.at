@@ -4,9 +4,9 @@ img: docker-all-the-things.png
 category: Services
 title: YOLOThreat Docker Products
 description: |
-  <p class="lead">Did we create all these? Nooooope! But we weren't gonna say anything about that. For now here they are!
+  <p class="lead">This is actually what all this is about. This collection of great Docker apps provide many of the key capabilities that an upstart threat intelligence team needs to create meaningful capability. These tools should make it easy for a team to get started and begin making impact.<p>
 
-  <ul>
+  <ul class="lead">
   <li><a href="https://registry.hub.docker.com/u/technoskald/maltrieve/">Maltrieve</a>
   <li><a href="https://registry.hub.docker.com/u/technoskald/combine/">Combine</a>
   <li><a href="https://registry.hub.docker.com/u/bprodoehl/scumblr/">Scumblr</a>
@@ -18,6 +18,4 @@ description: |
   <li><a href="https://registry.hub.docker.com/u/blacktop/bro/">Bro</a>
   <li><a href="https://registry.hub.docker.com/u/blacktop/yara/">YARA</a>
   </ul></p>
-
-
 ---
