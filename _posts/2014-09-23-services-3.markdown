@@ -4,6 +4,6 @@ img: kylemaxwell.jpg
 category: Services
 title: CEO - Kyle "The Silver Haired Wombat" Maxwell
 description: |
-  <p class="lead">A noted leader who still believes this year is finally the year of "Linux on the Desktop" Kyle is an expert in outdated Unixs, writing widely used Python projects without tests, & threat intelligence. He can be found on <a href="https://www.github.com/technoskald">GitHub</a> & Twitter as <a href="https://www.twitter.com/kylemaxwell">@kylemaxwell</a>.</p>
+  <p class="lead">A noted leader who still believes this year is finally the year of "Linux on the Desktop", Kyle is an expert in outdated Unixs, writing widely used Python projects without tests, & threat intelligence. He can be found on <a href="https://www.github.com/krmaxwell">GitHub</a> & <a href="https://www.twitter.com/kylemaxwell">Twitter</a>.</p>
 
 ---
