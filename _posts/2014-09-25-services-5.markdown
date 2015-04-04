@@ -4,6 +4,6 @@ img: drake.png
 category: Services
 title: Angel Investor - Drake
 description: |
-  <p class="lead">Drake gave us a Starbucks Gift Card for Christmas (what a sweet guy) so we assumed that was angle investment. So we started drinking coffee and planning how to spend our future millions from our new Threat Intelligence company. We should have hired a CFO instead. That's not Drakes fault.</p>
+  <p class="lead">Drake gave us a Starbucks Gift Card for Christmas (what a sweet guy) so we assumed that was angle investment. So we started drinking coffee and planning how to spend our future millions from our new Threat Intelligence company. We should have hired a CFO instead. That's not Drake's fault.</p>
 
 ---
